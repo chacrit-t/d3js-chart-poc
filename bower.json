@@ -1,0 +1,22 @@
+{
+  "name": "d3js-chart-poc",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chacrit-t/d3js-chart-poc",
+  "authors": [
+    "Chacrit Tuanngern <chacrit.t@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.3",
+    "requirejs": "~2.1.11",
+    "semantic-ui": "~0.14.0"
+  }
+}
